@@ -1,8 +1,8 @@
 <?php
 
-namespace OpenAdmin\PHPInfo;
+namespace OpenAdminCore\PHPInfo;
 
-use OpenAdmin\Admin\Extension;
+use OpenAdminCore\Admin\Extension;
 
 class PHPInfo extends Extension
 {

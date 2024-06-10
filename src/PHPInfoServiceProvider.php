@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenAdmin\PHPInfo;
+namespace OpenAdminCore\PHPInfo;
 
 use Illuminate\Support\ServiceProvider;
 

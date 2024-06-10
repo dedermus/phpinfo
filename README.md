@@ -5,7 +5,7 @@ Installation
 ------------
 
 ```bash
-composer require open-admin-ext/phpinfo
+composer require dedermus/phpinfo
 ```
 
 If you want to add a link entry in the left menu, use the following command to import
