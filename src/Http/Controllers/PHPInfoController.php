@@ -1,10 +1,10 @@
 <?php
 
-namespace OpenAdmin\PHPInfo\Http\Controllers;
+namespace OpenAdminCore\PHPInfo\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use OpenAdmin\Admin\Layout\Content;
-use OpenAdmin\PHPInfo\PHPInfo;
+use OpenAdminCore\Admin\Layout\Content;
+use OpenAdminCore\PHPInfo\PHPInfo;
 
 class PHPInfoController extends Controller
 {
